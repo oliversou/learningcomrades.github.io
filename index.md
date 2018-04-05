@@ -18,4 +18,4 @@ is to provide the ICS undergraduate community a new way to learn and socialize.
 
 ## Landing Page
 
-![](images/landing.jpg)
+![](images/landing_page.jpg)
