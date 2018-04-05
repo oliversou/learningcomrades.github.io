@@ -19,3 +19,20 @@ is to provide the ICS undergraduate community a new way to learn and socialize.
 ## Landing Page
 
 ![](images/landing_page.jpg)
+
+## Login Page
+
+![](images/login.jpg)
+
+## Profile Page
+
+![](images/profile.jpg)
+
+## Create Study Session Page
+
+![](images/create.jpg)
+
+## Upcoming Study Session Page
+
+![](images/upcoming.jpg)
+
