@@ -4,4 +4,5 @@
 
 # Learning Comrades
 
-CornDoc is an organization created by three male students with a dream.
+Learning Comrades is a Meteor application project created by Dallas Greene, Oliver Sou, and Collin Wong. The goal of this project 
+is to provide the ICS undergraduate community a new way to learn and socialize.
