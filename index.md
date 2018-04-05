@@ -7,6 +7,10 @@
   * [Profile Page](#profile-page)
   * [Create Study Session Page](#create-study-session-page)
   * [Upcoming Study Session Page](#upcoming-study-session-page)
+* [Development Details](#development-details)
+  * [Milestone 1](#milestone-1)
+  * [Milestone 1](#milestone-2)
+  * [Milestone 1](#milestone-3)
   
 
 # About Learning Comrades
@@ -35,4 +39,6 @@ is to provide the ICS undergraduate community a new way to learn and socialize.
 ## Upcoming Study Session Page
 
 ![](images/upcoming.jpg)
+
+# Development Detais
 
