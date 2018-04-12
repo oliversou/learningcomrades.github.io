@@ -40,5 +40,6 @@ is to provide the ICS undergraduate community a new way to learn and socialize.
 
 ![](images/upcoming.jpg)
 
-# Development Detais
+# Development Details
+
 
